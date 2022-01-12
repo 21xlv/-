@@ -126,7 +126,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 </figure> 
 <br>
      
-          <br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
    </section>
 </body>
 </html> 
