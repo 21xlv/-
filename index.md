@@ -48,7 +48,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <head>
 <h1> <b> 
 <img src="img/daredevil.jpg" alt="daredevil" style="width:110px;height:110px;"/> daredevil ✔️ </b></h1><br>
-   B subscribers 
+   8B subscribers 
 </head>
 <body>
 <br><br><br>
